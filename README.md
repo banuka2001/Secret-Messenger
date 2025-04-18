@@ -1,8 +1,7 @@
-# Encryption Application
-
+# Secret Messenger
 A web-based application that encrypts and decrypts text using multiple cipher algorithms layered together.
 
-## Project Synopsis
+## Project 
 
 The program allows for encoding as well as decoding of lexemes and expressions by utilizing a complete methodology that involves three different cipher algorithms. The encryption process involves multiple variations of the original text, hence providing increased security compared to using a single cipher.
 
@@ -15,7 +14,6 @@ The basic encryption process uses three different cipher algorithms:
 * **Symbol Cipher**: Substitutes every letter with fixed symbols.
 * **Caesar Cipher**: Every letter is shifted by a fixed number of places within the alphabet.
 
-### Architectural and Structural Elements Framework
 
 The implementation follows a modular structure based on a clear definition of responsibilities:
 * *encryptor.js*: Includes the basic algorithms for cipher implementations.
